@@ -29,7 +29,7 @@ namespace Assignment
             //double Area = obj.area("Rectangle=", new double[] { 4, 2 });
             Console.WriteLine("Area=" + Area);
             Console.WriteLine("************************************************************");
-
+            Console.WriteLine("************************************************************");
             Console.ReadLine();
         }
     }
@@ -120,4 +120,5 @@ namespace Assignment
         }
     }
     
+
 }
